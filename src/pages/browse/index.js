@@ -7,7 +7,7 @@ const Browse = () => (
     <Title>Navegar</Title>
 
     <List>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://i.ytimg.com/vi/Zj5Jg8xMa30/maxresdefault.jpg"
           alt="Playlist"
@@ -15,7 +15,7 @@ const Browse = () => (
         <strong>Melhores do Rock</strong>
         <p>Relaxe enquanto você programa ouvindo o melhor do Rock Mundial!</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://i.ytimg.com/vi/Zj5Jg8xMa30/maxresdefault.jpg"
           alt="Playlist"
@@ -23,7 +23,7 @@ const Browse = () => (
         <strong>Melhores do Rock</strong>
         <p>Relaxe enquanto você programa ouvindo o melhor do Rock Mundial!</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://i.ytimg.com/vi/Zj5Jg8xMa30/maxresdefault.jpg"
           alt="Playlist"
@@ -31,7 +31,7 @@ const Browse = () => (
         <strong>Melhores do Rock</strong>
         <p>Relaxe enquanto você programa ouvindo o melhor do Rock Mundial!</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://i.ytimg.com/vi/Zj5Jg8xMa30/maxresdefault.jpg"
           alt="Playlist"
